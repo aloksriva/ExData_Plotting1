@@ -1,0 +1,1 @@
+hist(x$Global_active_power, xlab="Global Active Power (kilowatts)", col="red", main="Global Active Power", ylim=c(0,1200))
